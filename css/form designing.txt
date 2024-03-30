@@ -1,0 +1,15 @@
+form designing:
+__________
+Html
+_________
+<form action="method="">
+</form>
+
+
+methods 
+----------
+post:insert to data into database
+get : display the data from dataabase
+put
+delate
+patch

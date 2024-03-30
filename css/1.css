@@ -1,0 +1,142 @@
+*
+{
+    padding: 0;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.container
+{
+    width: 90%;
+    min-height: 100px;
+    
+    margin: auto;
+}
+.content-logo-menu
+{
+    width:100%;
+    min-height: 100px;
+}
+.content-logo-menu .logo
+{
+    margin: 5px;
+    background-color: white;
+    width: 35%;
+    height: 60px;
+    padding: 0px;
+    float: left;
+
+}
+.logo h1{
+    padding: 10px;
+    color: blue;
+    font-size: 55px;
+    
+
+}
+.content-logo-menu .menu
+{
+    margin: 10px;
+    
+    width: 45%;
+    height: 60px;
+    padding: 10px;
+    float: right;
+}
+.menu a
+{
+    color: black;
+    padding: 20px;
+    font-size: 25px;
+} 
+.menu a:hover{
+    color: aqua;
+    background-color: white;
+}
+
+.slider
+{
+    width: 100%;
+    min-height: 300px;
+    margin: 10px;
+}
+.slider .img
+{
+    width: 100%;
+    min-height: 300px;
+
+}
+.img img
+{
+    width: 98%;
+    height: auto;
+}
+.box
+{
+    width: 100%;
+    margin: auto;
+    min-height: 300px;
+    padding: 5px;
+}
+.box-img-text
+{
+    width: 100%;
+    min-height: 350px;
+}
+.box-img-text .img
+{
+    width: 48%;
+    height: auto;
+    float: right;
+}
+
+.box-img-text .text
+{
+    width: 45%;
+    height: 350px;
+    float: left;
+    background-color: cornflowerblue;
+    color: white;
+}
+.text p
+{
+    padding: 20px;
+    margin: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+.Text 
+{
+    width: 98%;
+    min-height: 300px;
+  
+    color:black;
+    padding: 15px;
+    margin: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    
+}
+.Text .write
+{
+    padding: 20px;
+    margin: 10px;
+    
+}
+
+.footer
+{
+    width: 97%;
+    min-height: 100px;
+    text-align: center;
+    color: black;
+    margin: 20px;
+   
+    padding: 20px;
+    font-size: x-large;
+
+}
+
+
+

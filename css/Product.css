@@ -1,0 +1,25 @@
+*
+{
+    padding: 0px;
+    margin: auto;
+
+}
+.product
+{
+    width: 50%;
+    min-height: 40px;
+    padding: 20px;
+    margin: auto;
+    background-color: black;
+}
+.product .logo
+{
+    padding: 20px;
+    margin: 20px;
+
+}
+.Logo h1
+{
+    color: white;
+    text-align: center;
+}

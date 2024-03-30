@@ -1,0 +1,60 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container .logo
+{
+    padding: auto;
+    margin: 10px;
+    font-size: 20px;
+    background-color: blue;
+    color: white;
+    width: 100%;
+    min-height: 60px;
+}
+.container .menu
+{
+    width: 100%;
+    min-height: 70px;
+    background-color: blueviolet;
+    margin: 10px;
+    padding: 20px;
+}
+.menu a
+{
+    color: white;
+    padding: 50px;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+.menu a:hover
+{
+    background-color: crimson;
+    color: white;
+}
+.yash
+{
+    padding: auto;
+    width: 100%;
+    height: 600px;
+    margin: 10px;
+
+}
+.yash img
+{
+    width: 100%;
+    height: 90%;
+}
+.footer
+{
+    text-align: center;
+    font-size: 2.5em;
+    background-color: coral;
+    color: black;
+    width: 100%;
+    margin: 0px;
+}

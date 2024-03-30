@@ -1,0 +1,37 @@
+*
+{
+    padding: 0px;
+    margin: auto;
+
+}
+.product
+{
+    width: 50%;
+    min-height: 40px;
+    padding: 20px;
+    margin: auto;
+    background-color: black;
+}
+.product .logo
+{
+    padding: 20px;
+    margin: 20px;
+
+}
+.Logo h1
+{
+    color: white;
+    text-align: center;
+}
+
+.footer
+{
+    width: 97%;
+    min-height: 100px;
+    text-align: center;
+    color: black;
+    margin: auto;
+    padding: 50px;
+    font-size: x-large;
+
+}
